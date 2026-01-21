@@ -17,7 +17,7 @@ When I showed him a project I made before, using laser-cut and engraved MDF wood
 ## CAD
 Really just the top plate.
 
-<img width="1109" height="733" alt="image" src="https://github.com/user-attachments/assets/8850dca4-b725-4a5e-b111-5153ea4e1b50" />
+<img width="1109" height="733" alt="image" src="https://github.com/user-attachments/assets/d575f43f-f39a-434a-bf10-b4a5136f8bda" />
 
 For the box my teacher gave me, it is 301*201mm (outside dimensions), and the wall thickness is 13.5mm.
 
