@@ -18,7 +18,7 @@ When I showed him a project I made before, using laser-cut and engraved MDF wood
 Really just the top plate.
 
 <img width="1109" height="733" alt="image" src="https://github.com/user-attachments/assets/d575f43f-f39a-434a-bf10-b4a5136f8bda" />
-
+<img width="1124" height="742" alt="image" src="https://github.com/user-attachments/assets/689a83ba-d069-488e-ac2f-42eebf3d6cdd" />
 For the box my teacher gave me, it is 301*201mm (outside dimensions), and the wall thickness is 13.5mm.
 
 ## Wiring diagram 🔌
