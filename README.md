@@ -26,6 +26,9 @@ It is pretty self explanatory on the top face with the symbols.
 
 But here is the diagram for the amplifier IC.
 
+<img width="924" height="712" alt="image" src="https://github.com/user-attachments/assets/a0fe3c36-9d26-46c1-ad11-9f8bc7d03a36" />
+
+The top power terminals are left unconnected. They are just there to position the power inputs directly on the model, instead of pulling a lot of wires directly from the PSU.
 ## Finished product 💎
 ![20260129_114548](https://github.com/user-attachments/assets/48229402-c818-412d-b048-f0300dcd32cd)
 ![20260129_114559 (2)](https://github.com/user-attachments/assets/2699a7b0-536a-43ab-8b77-e57cd8474277)
